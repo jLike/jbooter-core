@@ -1,1 +1,3 @@
-# jbooter-core
+[![Build Status](https://travis-ci.org/jbooter/jbooter-core.svg?branch=master)](https://travis-ci.org/jbooter/jbooter-core) [![Dependency Status](https://david-dm.org/jbooter/jbooter-core.svg)](https://david-dm.org/jbooter/jbooter-core) [![devDependency Status](https://david-dm.org/jbooter/jbooter-core/dev-status.svg)](https://david-dm.org/jbooter/jbooter-core#info=devDependencies) [![peerDependency Status](https://david-dm.org/jbooter/jbooter-core/peer-status.svg)](https://david-dm.org/jbooter/jbooter-core#info=peerDependencies)
+
+Welcome to the official repository of everything common to JBooter and its projects, like the JDL (JBooter Domain Language).
